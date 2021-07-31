@@ -14,5 +14,7 @@ If you want to use a map, don't download it. Instead, use one of the links below
 
 ### Weather Districts Map:
 
-* Weather Districts Map: <code>https://github.com/achillium/vooperian-map/blob/main/weather_region_map.png?raw=true</code>
-* Weather Districts Map Compressed: <code>https://github.com/achillium/vooperian-map/blob/main/weather_region_mapSCALED.jpg?raw=true</code>
+* Weather Region Map: <code>https://github.com/achillium/vooperian-map/blob/main/weather_region_map.png?raw=true</code>
+* Weather Region Map Compressed: <code>https://github.com/achillium/vooperian-map/blob/main/weather_region_mapSCALED.jpg?raw=true</code>
+* White Weather Region Map: <code>https://github.com/achillium/vooperian-map/blob/main/white%20weather%20map.png?raw=true</code>
+* White Weather Region Map Compressed: <code>https://github.com/achillium/vooperian-map/blob/main/white%20weather%20mapSCALED.jpg?raw=true</code>
